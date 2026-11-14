@@ -33,7 +33,7 @@ I am currently looking for my first professional opportunity as a **Full Stack D
 
 | Project | Description | Technologies |
 |---|---|---|
-| **Task Manager** *(in progress)* | Full stack task management app with user authentication and CRUD operations. | React · Node.js · Express · PostgreSQL |
+| [**Task Manager**](https://github.com/JosuhaAML/task-manager) | Full stack task management app with JWT authentication, filters, search and API integration tests. | React · Node.js · Express · PostgreSQL |
 | **REST API with JWT** *(planned)* | Secure REST API with authentication, roles, validation and documentation. | Node.js · Express · JWT · Swagger |
 | **Inventory System** *(planned)* | Inventory and sales management system with reports and a dashboard. | React · TypeScript · MongoDB |
 
@@ -56,7 +56,7 @@ Actualmente busco mi primera oportunidad profesional como **Desarrollador Full S
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
-| **Gestor de Tareas** *(en desarrollo)* | Aplicación full stack de gestión de tareas con autenticación de usuarios y operaciones CRUD. | React · Node.js · Express · PostgreSQL |
+| [**Gestor de Tareas**](https://github.com/JosuhaAML/task-manager) | Aplicación full stack de gestión de tareas con autenticación JWT, filtros, búsqueda y pruebas de integración de la API. | React · Node.js · Express · PostgreSQL |
 | **API REST con JWT** *(planificado)* | API REST segura con autenticación, roles, validaciones y documentación. | Node.js · Express · JWT · Swagger |
 | **Sistema de Inventario** *(planificado)* | Sistema de gestión de inventario y ventas con reportes y panel de control. | React · TypeScript · MongoDB |
 
