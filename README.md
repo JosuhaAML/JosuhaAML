@@ -33,6 +33,7 @@ I am currently looking for my first professional opportunity as a **Full Stack D
 
 | Project | Description | Technologies |
 |---|---|---|
+| [**Leyendas del Perú**](https://github.com/JosuhaAML/leyendas-del-peru) 🎮 | Online co-op boss raid for 1-5 players inspired by Peruvian legends: boss AI with phases, bot allies, automated play tests. [Download](https://github.com/JosuhaAML/leyendas-del-peru/releases/latest) | Unity 6 · C# · Netcode for GameObjects |
 | [**Task Manager**](https://github.com/JosuhaAML/task-manager) | Full stack task management app with JWT authentication, filters, search and API integration tests. | React · Node.js · Express · PostgreSQL |
 | [**Inventory System**](https://github.com/JosuhaAML/inventory-system) | Inventory and point-of-sale system with role-based access, concurrency-safe stock and a sales dashboard. | React · TypeScript · Node.js · MongoDB |
 | [**Banking API**](https://github.com/JosuhaAML/banking-api) | Banking REST API with accounts, transfers, idempotency and concurrency-safe balances. Dockerized, documented with Swagger. | Java 21 · Spring Boot · Spring Security · PostgreSQL |
@@ -56,6 +57,7 @@ Actualmente busco mi primera oportunidad profesional como **Desarrollador Full S
 
 | Proyecto | Descripción | Tecnologías |
 |---|---|---|
+| [**Leyendas del Perú**](https://github.com/JosuhaAML/leyendas-del-peru) 🎮 | Juego cooperativo de jefes en línea para 1-5 jugadores inspirado en leyendas peruanas: IA de jefes con fases, bots aliados y pruebas automáticas. [Descargar](https://github.com/JosuhaAML/leyendas-del-peru/releases/latest) | Unity 6 · C# · Netcode for GameObjects |
 | [**Gestor de Tareas**](https://github.com/JosuhaAML/task-manager) | Aplicación full stack de gestión de tareas con autenticación JWT, filtros, búsqueda y pruebas de integración de la API. | React · Node.js · Express · PostgreSQL |
 | [**Sistema de Inventario**](https://github.com/JosuhaAML/inventory-system) | Sistema de inventario y punto de venta con roles, control de stock concurrente y dashboard de ventas. | React · TypeScript · Node.js · MongoDB |
 | [**API Bancaria**](https://github.com/JosuhaAML/banking-api) | API REST bancaria con cuentas, transferencias idempotentes y saldos seguros ante concurrencia. Con Docker y Swagger. | Java 21 · Spring Boot · Spring Security · PostgreSQL |
@@ -86,6 +88,12 @@ Actualmente busco mi primera oportunidad profesional como **Desarrollador Full S
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode,linux" alt="Tools">
+</p>
+
+**Game development / Videojuegos**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,cs" alt="Game development">
 </p>
 
 ---
