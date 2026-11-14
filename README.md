@@ -25,7 +25,7 @@ I am a Systems Engineer focused on full stack web development. I enjoy building 
 I am currently looking for my first professional opportunity as a **Full Stack Developer**, where I can contribute, keep learning and grow as part of a development team.
 
 - 🎓 Bachelor's degree in Systems Engineering
-- 🔭 Building full stack projects with **React**, **Node.js** and **PostgreSQL**
+- 🔭 Building full stack projects with **React**, **Node.js**, **Spring Boot** and **PostgreSQL**
 - 🌱 Currently learning **TypeScript**, **Docker** and cloud deployment
 - 📫 Contact: **josuha.alanya@gmail.com**
 
@@ -35,7 +35,7 @@ I am currently looking for my first professional opportunity as a **Full Stack D
 |---|---|---|
 | [**Task Manager**](https://github.com/JosuhaAML/task-manager) | Full stack task management app with JWT authentication, filters, search and API integration tests. | React · Node.js · Express · PostgreSQL |
 | [**Inventory System**](https://github.com/JosuhaAML/inventory-system) | Inventory and point-of-sale system with role-based access, concurrency-safe stock and a sales dashboard. | React · TypeScript · Node.js · MongoDB |
-| **REST API with JWT** *(planned)* | Secure REST API with authentication, roles, validation and documentation. | Node.js · Express · JWT · Swagger |
+| [**Banking API**](https://github.com/JosuhaAML/banking-api) | Banking REST API with accounts, transfers, idempotency and concurrency-safe balances. Dockerized, documented with Swagger. | Java 21 · Spring Boot · Spring Security · PostgreSQL |
 
 ---
 
@@ -48,7 +48,7 @@ Soy Ingeniero de Sistemas enfocado en el desarrollo web full stack. Me gusta con
 Actualmente busco mi primera oportunidad profesional como **Desarrollador Full Stack**, donde pueda aportar, seguir aprendiendo y crecer como parte de un equipo de desarrollo.
 
 - 🎓 Bachiller en Ingeniería de Sistemas
-- 🔭 Desarrollando proyectos full stack con **React**, **Node.js** y **PostgreSQL**
+- 🔭 Desarrollando proyectos full stack con **React**, **Node.js**, **Spring Boot** y **PostgreSQL**
 - 🌱 Aprendiendo **TypeScript**, **Docker** y despliegue en la nube
 - 📫 Contacto: **josuha.alanya@gmail.com**
 
@@ -58,7 +58,7 @@ Actualmente busco mi primera oportunidad profesional como **Desarrollador Full S
 |---|---|---|
 | [**Gestor de Tareas**](https://github.com/JosuhaAML/task-manager) | Aplicación full stack de gestión de tareas con autenticación JWT, filtros, búsqueda y pruebas de integración de la API. | React · Node.js · Express · PostgreSQL |
 | [**Sistema de Inventario**](https://github.com/JosuhaAML/inventory-system) | Sistema de inventario y punto de venta con roles, control de stock concurrente y dashboard de ventas. | React · TypeScript · Node.js · MongoDB |
-| **API REST con JWT** *(planificado)* | API REST segura con autenticación, roles, validaciones y documentación. | Node.js · Express · JWT · Swagger |
+| [**API Bancaria**](https://github.com/JosuhaAML/banking-api) | API REST bancaria con cuentas, transferencias idempotentes y saldos seguros ante concurrencia. Con Docker y Swagger. | Java 21 · Spring Boot · Spring Security · PostgreSQL |
 
 ---
 
